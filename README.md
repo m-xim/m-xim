@@ -1,9 +1,7 @@
 ## 💫 About Me
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jinja-2B2B2B?logo=jinja&logoColor=white" /> <img src="https://img.shields.io/badge/Flet-000000?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/aiogram-2CA5E0?logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/aiohttp-808080?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/asyncio-005571?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jinja-2B2B2B?logo=jinja&logoColor=white" /> <img src="https://img.shields.io/badge/Flet-000000?logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/aiogram-2CA5E0?logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/aiohttp-808080?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/asyncio-005571?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-2B2B2B?logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PyQT-green?logo=qt&logoColor=white" /> <img src="https://img.shields.io/badge/docker-1D63ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI-CD-43B02A?logo=githubactions&logoColor=white" />
 
-
-- 🌱 **What I do:** Passionate about software development, exploring new technologies, and solving challenging problems.
-- 💡 **Interests:** Open-source contributions, automation, and building tools that make life easier.
+Hi there! I’m Maxim — a Python developer focused on asynchronous applications, Telegram bots, and modern UI frameworks. I love building tools that make life easier and sharing what I learn with the open-source community.
 
 ## 📫 How to Reach Me?
 
