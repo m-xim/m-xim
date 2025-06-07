@@ -12,7 +12,7 @@ Feel free to reach out if you’d like to collaborate, ask a question, or just s
 
 <br>
 
-![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-xim&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=m-xim&theme=dark)  
+<img src="https://github-readme-stats.vercel.app/api?username=m-xim&show_icons=true&theme=dark" width="40%" /> <img src="https://streak-stats.demolab.com/?user=m-xim&theme=dark" width="43%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-xim/m-xim/output/github-contribution-grid-snake-dark.svg">
