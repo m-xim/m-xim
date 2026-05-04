@@ -9,11 +9,6 @@ Feel free to reach out if you’d like to collaborate, ask a question, or just s
 - 📧 Email: i@m-xim.ru
 - ✈️ Telegram: [t.me/m_ximilian](https://t.me/m_ximilian)
 
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=m-xim&show_icons=true&theme=dark" width="40%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-xim/m-xim/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-xim/m-xim/output/github-contribution-grid-snake.svg">
